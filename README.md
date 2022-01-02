@@ -16,7 +16,7 @@ This project is completed
 
 #### Example:   
 
-![ScreenShot](https://github.com/singhru27/Concurrent-Database/blob/master/screenshots/Home.png?raw=true)
+![ScreenShot](https://github.com/singhru27/Concurrent-Database/blob/main/screenshots/Home.png?raw=true)
 
 
 ## Installation and Setup Instructions
