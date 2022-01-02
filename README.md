@@ -27,7 +27,7 @@ To build the program, run the command
 make all
 ```
 
-which compiles the database programs. To launche the server, run the command
+which compiles the database programs. To launch the server, run the command
 
 ```
 /server <port number>
